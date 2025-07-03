@@ -1,20 +1,45 @@
-<h1> In The Name Of """ 1 """ </h1>
+# In The Name of "1"
 
-<p align="right"> 
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
-  </p>
+<p align="left
+  "> 
+  <img src="https://octodex.github.com/images/privateinvestocat.jpg" height="160px" width="160px"> 
+</p>
 
-Hi 👋, I'm Uncle Bamdad <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47y1t703yy7exzfc4husksux377g5sprqn25f4r7yu&rid=giphy.gif&ct=g" width="70">
-<br><br>Full-Stack developer from Iran<br><br>- 🌱 I’m currently learning **Everything as Possible=>?Hacking Most of the time**<br>- 👨‍💻 All of my projects are available at [https://github.com/BamdadTabari](https://github.com/BamdadTabari) and [https://github.com/Geekups](https://github.com/Geekups)<br>- 📝 I regularly write articles on [https://medium.com/@bamdadtabari](https://medium.com/@bamdadtabari)<br>- 💬 Ask me about **.Net, C#, Blazor and related things**<br>- 📫 How to reach me **bamdadtabari@outlook.com**<br>- 📄 Know about my experiences [https://www.linkedin.com/in/bamdad-tabari-b62667262/](https://www.linkedin.com/in/bamdad-tabari-b62667262/)<br>- ⚡ Fun fact **######&%$#@@()&&^%%$$##+++++-*/+**<br>
-bamdadtabari@gmail.com , also works
+## 👋 Hello, I'm Uncle Bamdad
 
+🚀 A curious **Full-Stack Developer** from **Iran**, building cool stuff, breaking things for fun, and fixing them for peace of mind.
 
-## 🌐 Articles:
-[My Medium Profile](https://medium.com/@bamdadtabari) 
+---
 
-# 💻 Tech Stack:
-# " the quieter you become, the more you are able to hear "
+### 🧐 Currently Exploring:
+
+- 🌱 Learning as much as I can — especially in **.NET, Hacking, and Blazor**
+- 🧪 Experimenting with **Clean Architecture**, **CQRS**, **Web APIs**, and **LLMs**
+- 🧰 Building side-projects that *might* just save the world (or at least make it more interesting)
+
+---
+
+### 💼 My Work
+
+- 🔗 Main GitHub: [@BamdadTabari](https://github.com/BamdadTabari)
+- 👨‍👩‍👧 Team Projects: [@Geekups](https://github.com/Geekups)
+- 📚 Articles: [Medium - @bamdadtabari](https://medium.com/@bamdadtabari)
+- 💼 LinkedIn: [linkedin.com/in/bamdad-tabari](https://www.linkedin.com/in/bamdad-tabari-b62667262/)
+- ✉️ Contact Me: `bamdadtabari@outlook.com` | `bamdadtabari@gmail.com`
+
+---
+
+### 🔧 Tech Stack
+
+```csharp
+Languages:      C#, TypeScript, JavaScript, Python
+Frameworks:     ASP.NET Core, Blazor, React, Next.js
+Databases:      MSSQL, MongoDB, PostgreSQL
+Tools:          Docker, Git, Linux, Redis, RabbitMQ
+```
+
+> 🧘 "The quieter you become, the more you are able to hear."
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BamdadTabari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
