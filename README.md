@@ -13,7 +13,7 @@
 
 ### 🧐 Currently Exploring:
 
-- 🌱 Learning as much as I can — especially in **.NET, Hacking, and Blazor**
+- 🌱 Learning as much as I can — especially in **.NET,and Blazor**
 - 🧪 Experimenting with **Clean Architecture**, **CQRS**, **Web APIs**, and **LLMs**
 - 🧰 Building side-projects that *might* just save the world (or at least make it more interesting)
 
