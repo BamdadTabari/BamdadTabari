@@ -98,3 +98,9 @@ I am interested in:
 - Remote software engineering roles
 - Open-source collaboration
 - Scientific computing projects
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BamdadTabari&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
+</p>
