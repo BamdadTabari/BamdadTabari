@@ -103,5 +103,5 @@ I am interested in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BamdadTabari&show_icons=true&hide_border=true&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BamdadTabari&layout=compact&hide_border=true&langs_count=8" />
 </p>
