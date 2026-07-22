@@ -2,6 +2,7 @@
 
 ## Senior .NET Software Engineer
 ### Backend Architecture | Cloud Systems | Scientific Computing
+#### Building software systems and exploring computational models of the universe 🌌
 
 I am a software engineer focused on building scalable backend systems, designing clean architectures, and exploring the intersection of software engineering and scientific computing.
 
@@ -102,5 +103,5 @@ I am interested in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BamdadTabari&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BamdadTabari&show_icons=true&hide_border=true&hide_title=true&count_private=true" />
 </p>
